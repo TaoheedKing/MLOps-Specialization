@@ -1,9 +1,7 @@
 Notes for Lesson 3:
 1. 
-''' function callable that requires a single argument '''
-callable(name, legs=4)
-# name argument is required
-# legs argument is optional since there is already a default variable specified for it
+''' below is the function callable that requires a single argument '''
+callable(name, legs=4) # argument name is required and legs argument is optional since there is already a default variable specified for it
 
 2.
 ''' order of arguments and keyword arguments in a function '''
