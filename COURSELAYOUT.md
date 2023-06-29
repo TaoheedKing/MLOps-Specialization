@@ -52,4 +52,4 @@ By the end of the course, you will be able to apply MLOps concepts like fine-tun
 --------------------------------------------------------------------------------
 Current Status:
 
-I cannot be a pro without a solid foundation, so I am going through the Python Essentials for MLOps course first. About 75% done with Course 1
+I cannot be a pro without a solid foundation, so I started with 'Python Essentials for MLOps' course. Now starting 'DevOps, DataOps, MLOps' course.
