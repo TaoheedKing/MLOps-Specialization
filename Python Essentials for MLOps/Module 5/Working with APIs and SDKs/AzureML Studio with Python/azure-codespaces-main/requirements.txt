@@ -1,0 +1,2 @@
+azureml-core>=1.15.0
+ipykernel
